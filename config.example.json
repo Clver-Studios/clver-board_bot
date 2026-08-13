@@ -1,0 +1,12 @@
+{
+  "guild_id": 0,
+  "scan_channel_ids": [],
+  "approval_channel_id": 0,
+  "posting_channel_id": 0,
+  "staff_role_id": 0,
+  "period_days": 15,
+  "cycle_trigger_days": [[5, 9], [21, 25]],
+  "scan_hour_utc": 12,
+  "reaction_threshold": 3,
+  "posting_delay_seconds": 240
+}
